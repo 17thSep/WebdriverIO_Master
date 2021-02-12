@@ -1,6 +1,7 @@
 This is a repo for TypeScript examples
 
 1 - "BasicTypeScript" has examples related to TypeScript without WebdriverIO
+Video : https://youtu.be/U3kOuNxvlk4
 
     Play around with the following commands to understand more
 
@@ -8,9 +9,6 @@ This is a repo for TypeScript examples
     `node sample2.js`
     `node sample3.ts` - This will throw an error
     `npx ts-node sample3.ts`
-
-    Video : https://youtu.be/U3kOuNxvlk4
-    
 
 2- "Mocha" has examples related to Mocha Framework with WebdriverIO 7
 
