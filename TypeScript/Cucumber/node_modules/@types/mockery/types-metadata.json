@@ -1,0 +1,23 @@
+{
+    "authors": "jt000 <https://github.com/jt000>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "1",
+    "libraryMinorVersion": "4",
+    "libraryName": "mockery 1.4.0",
+    "typingsPackageName": "mockery",
+    "projectName": "https://github.com/mfncooper/mockery",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [],
+    "declaredModules": [
+        "mockery"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "cb73d08503803883a5ee51537a258cedb56f579f10a20ea4dfa1443564c13d66"
+}

@@ -1,4 +1,5 @@
 {
+  "compileOnSave": true,
   "compilerOptions": {
     "sourceMap": false,
     "target": "es2019",
@@ -7,7 +8,7 @@
     "noImplicitAny": true,
     "strictPropertyInitialization": true,
     "strictNullChecks": true,
-    "esModuleInterop": true,
+    "esModuleInterop": true,    
     "types": [
       "node",      
       "webdriverio/sync",
