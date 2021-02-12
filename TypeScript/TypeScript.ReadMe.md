@@ -1,6 +1,7 @@
 This is a repo for TypeScript examples
 
 1 - "BasicTypeScript" has examples related to TypeScript without WebdriverIO
+
 Video : https://youtu.be/U3kOuNxvlk4
 
     Play around with the following commands to understand more
