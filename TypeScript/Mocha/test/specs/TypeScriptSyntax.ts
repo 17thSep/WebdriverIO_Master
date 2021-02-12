@@ -8,6 +8,7 @@ describe("Verify the Calculator Page is working as expected", () => {
     $('//input[@value="'+input1+'"]').click()
     $('//input[@value="+"]').click()
     $('//input[@value="'+input2+'"]').click()
+    $('//input[@value="="]').click()
     let actualValue = $('//input[@id="display"]').getValue()
     assert1.strictEqual(actualValue, addition(input1, input2))
   }); 
@@ -15,6 +16,6 @@ describe("Verify the Calculator Page is working as expected", () => {
 });
 
 function addition(number1 :number, number2 :number){
-  return number1+number2;
+  return (number1+number2).toString();
 }
 
