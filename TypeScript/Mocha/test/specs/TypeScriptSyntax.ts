@@ -1,4 +1,4 @@
-const assert1 = require('assert')
+import assert from 'assert'
 describe("Verify the Calculator Page is working as expected", () => {
   
   it("Addition Example", () => {
@@ -10,7 +10,7 @@ describe("Verify the Calculator Page is working as expected", () => {
     $('//input[@value="'+input2+'"]').click()
     $('//input[@value="="]').click()
     let actualValue = $('//input[@id="display"]').getValue()
-    assert1.strictEqual(actualValue, addition(input1, input2))
+    assert.strictEqual(actualValue, addition(input1, input2))
   }); 
   
 });
