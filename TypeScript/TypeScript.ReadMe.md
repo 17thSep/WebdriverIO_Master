@@ -9,7 +9,8 @@ This is a repo for TypeScript examples
     `node sample3.ts` - This will throw an error
     `npx ts-node sample3.ts`
 
-    You can watch the basics of Typescript here: https://youtu.be/U3kOuNxvlk4
+    Video : https://youtu.be/U3kOuNxvlk4
+    
 
 2- "Mocha" has examples related to Mocha Framework with WebdriverIO 7
 
