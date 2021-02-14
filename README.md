@@ -1,11 +1,11 @@
 # WebdriverIO_Master
 This is the core branch for WebdriverIO, take a look at each of the folders 
 
-   1.[BasicTypeScript](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/BasicTypeScript) - Only TypeScript
-   2.[Cucumber](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Cucumber)                - WDIO 7 scripts with typescript in Cucumber Framework
-   3.[Mocha](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Mocha)           - WDIO 7 scripts with typescript in Mocha Framework
-   4.[Docker](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Docker)         - Run WDIO 7 script in Docker
-   5.[Networklogs](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/NetworkLogs)     - Capture Network logs 
+   1.[BasicTypeScript](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/BasicTypeScript) - Only TypeScript<br>
+   2.[Cucumber](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Cucumber)                - WDIO 7 scripts with typescript in Cucumber Framework<br>
+   3.[Mocha](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Mocha)           - WDIO 7 scripts with typescript in Mocha Framework<br>
+   4.[Docker](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Docker)         - Run WDIO 7 script in Docker<br>
+   5.[Networklogs](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/NetworkLogs)     - Capture Network logs<br>
 
     Many more to follow
 
