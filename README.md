@@ -11,18 +11,18 @@ This is the core branch for WebdriverIO, take a look at each of the folders
 
 ### You can watch WDIO 7 videos from the below links
 
-   [Basics of Typescript](https://youtu.be/U3kOuNxvlk4)
-    Create your Mocha scripts with TypeScript
-    Create your Cucumber scripts with TypeScript
-    Run scripts in Docker (GRID+NODE)
-    Run scripts in Docker (IMAGES)
-    Capture Network logs
+   [Basics of Typescript](https://youtu.be/U3kOuNxvlk4)<br>
+    Create your Mocha scripts with TypeScript<br>
+    Create your Cucumber scripts with TypeScript<br>
+    Run scripts in Docker (GRID+NODE)<br>
+    Run scripts in Docker (IMAGES)<br>
+    Capture Network logs<br>
 
 You can watch WDIO 6 videos from the below link
     
-   [Run scripts in Docker (GRID+NODE)] (https://youtu.be/NDt4alzH5E0)
-   [Run scripts in Docker (IMAGES)](https://youtu.be/Yjg476fg1l0)
-   [Capture Network logs](https://youtu.be/Be9IPyxHmLs)
+   [Run scripts in Docker (GRID+NODE)] (https://youtu.be/NDt4alzH5E0)<br>
+   [Run scripts in Docker (IMAGES)](https://youtu.be/Yjg476fg1l0)<br>
+   [Capture Network logs](https://youtu.be/Be9IPyxHmLs)<br>
 
 ### Alternatively,
 
