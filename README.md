@@ -33,6 +33,6 @@ Take a look at the WatchVideo.md file inside each folder for the step by step in
 #typescript #webdriverio #wdio7
 
 If you like to support my work, please check out the below
-Patreon: https://www.patreon.com/17thsep/membership
-Youtube: https://www.youtube.com/channel/UCqaDA1xslraCbam2CxuKhUw
-Dev.to: https://dev.to/17thsep1
+Patreon: https://www.patreon.com/17thsep/membership 
+Youtube: https://www.youtube.com/channel/UCqaDA1xslraCbam2CxuKhUw 
+Dev.to: https://dev.to/17thsep1 
