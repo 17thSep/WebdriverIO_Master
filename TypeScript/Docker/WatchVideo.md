@@ -44,9 +44,9 @@ Take a look at the notes below to run your scripts in docker in 2 different ways
    **Step 3:** change your 'services' in wdio.conf.js{here wdioConfigDockerImages.js} to point to 'chromedriver, docker'<br>
    **Step 4:** Configure headless chrome by adding the below to Capabilities in wdio.conf.js {here wdioConfigDockerImages.js}<br>
      *`acceptInsecureCerts: true,<br>`
-       `'goog:chromeOptions': {<br>`
-       `     args: ['--no-sandbox', '--disable-dev-shm-usage', '--headless']<br>`
-       `}  `* <br>
+     * `'goog:chromeOptions': {<br>`
+     * `     args: ['--no-sandbox', '--disable-dev-shm-usage', '--headless']<br>`
+     *  `}  ` <br>
    **Step 5:** Now all you have to do it to create an image and run it by running the below commands <br>
     *`docker build -t wdioDocker:v1 .`    <br>
      `docker run wdioDocker:v1`<br>*
