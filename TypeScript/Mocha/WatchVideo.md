@@ -4,7 +4,7 @@ Alternatively,
 
 Run this below command to run your Mocha scripts with TypeScript.
 
-`cd WEBDRIVERIO_17THSEP/TypeScript/Mocha`
+`cd WEBDRIVERIO_MASTER/TypeScript/Mocha`
 `npm install`
 `npm test`
 
