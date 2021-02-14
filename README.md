@@ -9,7 +9,7 @@ This is the core branch for WebdriverIO, take a look at each of the folders
 
     Many more to follow
 
-You can watch WDIO 7 videos from the below links
+### You can watch WDIO 7 videos from the below links
 
    [Basics of Typescript](https://youtu.be/U3kOuNxvlk4)
     Create your Mocha scripts with TypeScript
@@ -24,11 +24,11 @@ You can watch WDIO 6 videos from the below link
    [Run scripts in Docker (IMAGES)](https://youtu.be/Yjg476fg1l0)
    [Capture Network logs](https://youtu.be/Be9IPyxHmLs)
 
-#Alternatively,
+### Alternatively,
 
 Take a look at the WatchVideo.md file inside each folder for the step by step instrcutions
 
-##If you like to support my work, please check out the below ##
+## If you like to support my work, please check out the below
 
 <p>Patreon: https://www.patreon.com/17thsep/membership <br>
 Youtube: https://www.youtube.com/channel/UCqaDA1xslraCbam2CxuKhUw <br>
