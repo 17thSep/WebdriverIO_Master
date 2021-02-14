@@ -9,7 +9,7 @@ This is the core branch for WebdriverIO, take a look at each of the folders
 
     Many more to follow
 
-### You can watch WDIO 7 videos from the below links
+### Watch WDIO7 videos
 
    [Basics of Typescript](https://youtu.be/U3kOuNxvlk4)<br>
     Create your Mocha scripts with TypeScript<br>
