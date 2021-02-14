@@ -46,7 +46,7 @@ Take a look at the notes below to run your scripts in docker in 2 different ways
      *`acceptInsecureCerts: true,<br>
        'goog:chromeOptions': {<br>
             args: ['--no-sandbox', '--disable-dev-shm-usage', '--headless']<br>
-       }  <br>`*
+       }  `*<br>
    **Step 5:** Now all you have to do it to create an image and run it by running the below commands <br>
     *`docker build -t wdioDocker:v1 .`    <br>
      `docker run wdioDocker:v1`<br>*
