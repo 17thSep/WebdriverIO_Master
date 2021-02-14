@@ -2,7 +2,7 @@
 If you are using WDIO 7 or Typescript, the steps for running in docker remains the same.
 Take a look at the notes below to run your scripts in docker in 2 different ways
 
-## [DOCKER (GRID + NODE):] (https://youtu.be/NDt4alzH5E0)
+## DOCKER (GRID + NODE):[Video link](https://youtu.be/NDt4alzH5E0)
 
     Run this below command to run your Mocha scripts with TypeScript in Docker containers
 
@@ -25,7 +25,7 @@ Take a look at the notes below to run your scripts in docker in 2 different ways
     **Step 4:** Run 'docker-compose up' and wait for the containers to be up
     **Step 5:** Run 'npm test' or 'npx wdio run wdio.conf.js'
 
-DOCKER (IMAGES): explained here https://youtu.be/Yjg476fg1l0 for WDIO6.
+## DOCKER (IMAGES):[Video link](https://youtu.be/Yjg476fg1l0)
 
     Run this below command to run your Mocha scripts with TypeScript by creating a Docker image
 
