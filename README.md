@@ -7,7 +7,7 @@ This is the core branch for WebdriverIO, take a look at each of the folders
    4.[Docker](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/Docker)         - Run WDIO 7 script in Docker<br>
    5.[Networklogs](https://github.com/17thSep/WebdriverIO_Master/tree/master/TypeScript/NetworkLogs)     - Capture Network logs<br>
 
-    Many more to follow
+    More to follow
 
 ### Watch WDIO7 videos
 
