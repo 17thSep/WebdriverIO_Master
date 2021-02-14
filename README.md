@@ -18,7 +18,7 @@ This is the core branch for WebdriverIO, take a look at each of the folders
     Run scripts in Docker (IMAGES)<br>
     Capture Network logs<br>
 
-You can watch WDIO 6 videos from the below link
+You can watch WDIO 6 videos from the below link<br>
     
    [Run scripts in Docker (GRID+NODE)] (https://youtu.be/NDt4alzH5E0)<br>
    [Run scripts in Docker (IMAGES)](https://youtu.be/Yjg476fg1l0)<br>
