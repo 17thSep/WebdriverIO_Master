@@ -26,7 +26,7 @@ You can watch WDIO 6 videos from the below link<br>
 
 ### Alternatively,
 
-Take a look at the WatchVideo.md file inside each folder for the step by step instrcutions
+Take a look at the WatchVideo.md file inside each folder for the step by step instructions
 
 ## If you like to support my work, please check out the below
 
