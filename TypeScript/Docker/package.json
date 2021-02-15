@@ -6,8 +6,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npx wdio run wdioConfigDockerImages.js",
-    "inGrid": "npx wdio run wdioConfigDockerGrid.js"
+    "test": "npx wdio run wdioConfigDockerImages.ts",
+    "inGrid": "npx wdio run wdioConfigDockerGrid.ts"
   },
   "author": "",
   "license": "ISC",
