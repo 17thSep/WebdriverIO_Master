@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx wdio run wdioconfig.js"
+    "test": "npx wdio run wdioconfig.ts"
   },
   "keywords": [],
   "author": "",
