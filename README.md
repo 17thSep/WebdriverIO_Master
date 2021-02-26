@@ -12,7 +12,7 @@ This is the core branch for WebdriverIO, take a look at each of the folders
 ### Watch WDIO7 videos
 
    [Basics of Typescript](https://youtu.be/U3kOuNxvlk4)<br>
-    Create your Mocha scripts with TypeScript<br>
+   [Create your Mocha scripts with TypeScript](https://youtu.be/QT3UeCI0H2Q)<br>
     Create your Cucumber scripts with TypeScript<br>
     Run scripts in Docker (GRID+NODE)<br>
     Run scripts in Docker (IMAGES)<br>
